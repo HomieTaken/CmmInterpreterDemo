@@ -1,0 +1,35 @@
+int a=0.0;
+real c=1;
+//d=1;
+int b=0;
+int e[4];
+e[0]=1;
+b=(3+4)*(5+e[0]);
+
+while(({
+	int b
+	b=a+1;
+	c=b+1;
+
+
+while a<5){
+	b=a+1;
+}
+
+real b=0.0;
+
+a=0;
+while(a<10){
+	if(a<5){
+		a=a+2;
+	}else
+		a=a+1;
+}
+
+read ;
+read a;
+write b;
+write (b+1)*5;
+write ;
+
+real fu[2.3];

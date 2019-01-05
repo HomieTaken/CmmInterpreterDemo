@@ -1,0 +1,32 @@
+int a=5;
+
+if(a<1){
+}
+while(1<a){
+  a=a-1;
+}
+while(a<10)
+{
+    int d=2;
+    write(d);
+    write(a);
+    a=a+1;
+}
+int b=29;
+write(b);
+
+if(b<29)
+	b=b-1;
+else
+	b=b+1;
+
+b=(2+(2+3+4)*5)*2;
+write(b);
+
+real e[5];
+e[1]=3.0;
+e[2]=e[1]+2.0;
+e[3]=e[1]/1.0;
+write(e[2]);
+write(e[3]);
+write(e[5]);//越界检查
